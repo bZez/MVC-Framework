@@ -1,5 +1,5 @@
 # MVC-Framework
-Exercice N°6 // Framework MVC qui servira de base pour le projet 'Monyck' réalisé pour Simplon Epinal (e²Simplon) 
+Exercice N°7 // Framework MVC qui servira de base pour le projet 'Monyck' réalisé pour Simplon Epinal (e²Simplon) 
 
 # Schéma de la base de donnèes
 Visuel de la structure de la base de donnèes [Disponible en .sql](
